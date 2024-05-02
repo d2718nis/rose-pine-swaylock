@@ -16,7 +16,7 @@
 1. Clone the repository
 2. Instead of modifying the theme file, you can concatenate it with your existing configuration file by using:
 ```bash
-swaylock -C <(cat ~/.config/swaylock/config ~/.local/share/themes/rose-pine/rose-pine-swaylock/rose-pine)
+swaylock -C <(cat ~/.config/swaylock/config ~/.local/share/themes/rose-pine/swaylock/rose-pine)
 ```
 
 ## Gallery
