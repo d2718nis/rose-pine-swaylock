@@ -1,0 +1,45 @@
+# Background color
+color=#faf4ed
+
+# Layout text colors
+layout-bg-color=#00000000
+layout-border-color=#00000000
+layout-text-color=#575279
+
+# Text color
+text-color=#286983
+text-clear-color=#56949f
+text-caps-lock-color=#ea9d34
+text-ver-color=#907aa9
+text-wrong-color=#b4637a
+
+# Highlight segments
+bs-hl-color=#faf4ed66
+key-hl-color=#286983
+caps-lock-bs-hl-color=#faf4ed66
+caps-lock-key-hl-color=#ea9d34
+
+# Highlight segments separator
+separator-color=#00000000
+
+# Inside of the indicator
+inside-color=#28698355
+inside-clear-color=#56949f55
+inside-caps-lock-color=#ea9d3455
+inside-ver-color=#907aa955
+inside-wrong-color=#b4637a55
+
+# Line between the inside and ring
+line-color=#28698311
+line-clear-color=#56949f11
+line-caps-lock-color=#ea9d3411
+line-ver-color=#907aa911
+line-wrong-color=#b4637a11
+
+# Indicator ring
+ring-color=#286983aa
+ring-clear-color=#56949faa
+ring-caps-lock-color=#ea9d34aa
+ring-ver-color=#907aa9aa
+ring-wrong-color=#b4637aaa
+
