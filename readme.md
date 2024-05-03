@@ -14,7 +14,11 @@
 ## Usage
 
 1. Clone the repository
-2. Instead of modifying the theme file, you can concatenate it with your existing configuration file by using:
+2. Edit the theme file, add your settings and then use it as a config file:
+```bash
+swaylock -C ~/.local/share/themes/rose-pine/swaylock/rose-pine
+```
+3. Or instead of modifying the theme file, you can concatenate it with your existing configuration file by using:
 ```bash
 swaylock -C <(cat ~/.config/swaylock/config ~/.local/share/themes/rose-pine/swaylock/rose-pine)
 ```
