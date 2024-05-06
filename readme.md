@@ -25,7 +25,7 @@ swaylock -C <(cat ~/.config/swaylock/config ~/.local/share/themes/rose-pine/sway
 
 ## Gallery
 
-![Rosé Pine with swaylock](https://raw.githubusercontent.com/d2718nis/assets/main/rose-pine-swaylock/screenshot.png)
+![Rosé Pine with swaylock](https://raw.githubusercontent.com/d2718nis/assets/main/repositories/rose-pine-swaylock/screenshot.png)
 
 ## Thanks to
 
