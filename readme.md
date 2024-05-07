@@ -14,6 +14,10 @@
 ## Usage
 
 1. Clone the repository
+```bash
+git clone https://github.com/d2718nis/rose-pine-swaylock.git ~/.local/share/themes/rose-pine/swaylock
+```
+
 2. Edit the theme file, add your settings and then use it as a config file:
 ```bash
 swaylock -C ~/.local/share/themes/rose-pine/swaylock/rose-pine
